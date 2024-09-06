@@ -53,6 +53,6 @@ Here are some of my key projects:
 
 ### ⚡ Fun Fact
 
-When I'm not coding, you might find me [Your Hobby]!
+When I'm not coding, you might find me at your nearest gym!
 
 ![Hobby GIF](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
