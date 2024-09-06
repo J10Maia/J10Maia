@@ -38,7 +38,7 @@ Here are some of my key projects:
 
 - **[Enterprise Resource Planning](https://github.com/J10Maia/Enterprise-Resource-Planning)**: 
   ![ERP GIF](https://github.com/J10Maia/J10Maia/raw/main/path-to-your-erp-gif.gif)
-  - 🛠️ *Tech Stack*: Python, Django, JavaScript, SQL
+  - 🛠️ *Tech Stack*: Python, JavaScript, SQL
   - 🔍 *Description*: A comprehensive Enterprise Resource Planning system designed to streamline business processes. This project includes modules for inventory management, sales tracking, and more.
 
 - **[Wall Following Robot](https://github.com/J10Maia/Wall-Following-Robot)**: 
