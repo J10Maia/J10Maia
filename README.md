@@ -2,8 +2,6 @@
 
 ![Welcome GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
-🎓 **Final Year Master's Student** in Electrical and Computer Engineering at the University of Porto.
-
 ### 🚀 About Me
 
 I'm a tech enthusiast with a passion for:
