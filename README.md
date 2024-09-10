@@ -46,7 +46,7 @@ Here are some of my key projects:
   - 🛠️ *Tech Stack*: C, Arduino, Sensors, Embedded Systems
   - 🔍 *Description*: A robotic system capable of autonomously following walls using ultrasonic sensors. This project demonstrates my skills in embedded systems and real-time processing.
  
-- **[Battleship Game](https://github.com/yourusername/battleship-game)**: 
+- **[Battleship Game](https://github.com/J10Maia/battleship-game)**: 
   - 🛠️ *Tech Stack*: Java, Object-Oriented Programming
   - 🔍 *Description*: A classic turn-based naval strategy game with both single-player and multiplayer modes. This project showcases my proficiency in Java and my ability to develop complex game logic and user interaction features.
 
