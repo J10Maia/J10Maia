@@ -1,7 +1,5 @@
 # 👋 Hi, I'm João Maia!
 
-![Welcome GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-
 ### 🚀 About Me
 
 I'm a tech enthusiast with a passion for:
@@ -58,4 +56,4 @@ Here are some of my key projects:
 
 When I'm not coding, you might find me at your nearest gym!
 
-![Hobby GIF](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
+
